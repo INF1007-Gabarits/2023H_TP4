@@ -6,7 +6,7 @@
 - [Partie 2: Affichage graphique des données](#partie-2-analyse-des-donn%C3%A9es)
 - [Partie 3: Rédaction des tests](#partie-3-rédactions-des-tests)
 
-:alarm_clock: Date de remise le dimanche 13 novembre à 23h59
+:alarm_clock: Date de remise : dimanche 2 avril 2023 à 23h59
 
 ## Directives particulières
 * Un fichier TP4.ipynb sera utilisé;
