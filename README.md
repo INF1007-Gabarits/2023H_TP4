@@ -1,17 +1,17 @@
 # TP4: Bibliothèques scientifiques et graphiques | Tests et outils de correction
 
-- [Directives particulières](#directives-particuli%C3%A8res)
-- [Objectifs](#objectifs)
-- [Partie 1: Exploration de la base de données](#partie-1-Lire-et-construire-la-base-de-donn%C3%A9es)
-- [Partie 2: Affichage graphique des données](#partie-2-analyse-des-donn%C3%A9es)
-- [Partie 3: Rédaction des tests](#partie-3-rédactions-des-tests)
+- [TP4: Bibliothèques scientifiques et graphiques | Tests et outils de correction](#tp4-bibliothèques-scientifiques-et-graphiques--tests-et-outils-de-correction)
+  - [Directives particulières](#directives-particulières)
+  - [Objectifs](#objectifs)
+  - [Partie 3: Rédactions des tests](#partie-3-rédactions-des-tests)
+  - [Barème](#barème)
 
 :alarm_clock: Date de remise : dimanche 2 avril 2023 à 23h59
 
 ## Directives particulières
 * Un fichier TP4.ipynb sera utilisé;
-* Il suffit de faire un 'pip install jupyter' puis de rajouter jupyter sur pycharm afin de l'ouvrir, les jupyter notebook sont intéressants pour leur affichage rapide et vous familiariserons avec un outil communément utilisé; Afin de l'utiliser directement sur pycharm, il faut avoir la version pro, vous pouvez l'installer via votre courriel de Polytechnique en cliquant [ici](https://www.jetbrains.com/shop/eform/students). Pour ceux avec visual studio code, la version gratuite offre déjà le plugin jupyter que vous pouvez installer gratuitement. Une autre option (reccomandée) est d´utiliser la plateforme https://datalore.jetbrains.com. C´est une plateforme qui permet       d´exécuter les fichiers ipynb directement en ligne (donc rien à installer en local) et de travailler en collaboration. 
-* N'oubliez pas également d'installer les librairies manquantes (seaborn, numpy et pandas) via anaconda ou directement via pycharm; 
+* Il suffit de faire un 'pip install jupyter' puis de rajouter jupyter sur pycharm afin de l'ouvrir, les jupyter notebook sont intéressants pour leur affichage rapide et vous familiariserons avec un outil communément utilisé; Afin de l'utiliser directement sur pycharm, il faut avoir la version pro, vous pouvez l'installer via votre courriel de Polytechnique en cliquant [ici](https://www.jetbrains.com/shop/eform/students). Pour ceux avec visual studio code, la version gratuite offre déjà le plugin jupyter que vous pouvez installer gratuitement. Une autre option (recommandée) est d´utiliser la plateforme https://datalore.jetbrains.com. C´est une plateforme qui permet       d´exécuter les fichiers ipynb directement en ligne (donc rien à installer en local) et de travailler en collaboration. 
+* N'oubliez pas également d'installer les librairies manquantes (matplotlib, seaborn, numpy et pandas) via anaconda ou directement via pycharm; 
 * Pas de librairies externes autres que celles déjà importées.
 
 ## Objectifs
